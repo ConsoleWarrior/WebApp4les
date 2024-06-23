@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebAppForDocker.Abstraction;
 using WebAppForDocker.Dtos;
+using WebAppForDocker.Models;
 
 namespace WebAppForDocker.Controllers
 {
@@ -9,6 +10,7 @@ namespace WebAppForDocker.Controllers
     public class UserController : ControllerBase
     {
         private readonly IUserRepository _repository;
+
         [HttpPost]
         public ActionResult<int> AddUser(UserDto user)
         {
@@ -23,6 +25,16 @@ namespace WebAppForDocker.Controllers
         }
 
         [HttpGet]
-        public ActionResult<RoleId> CheckUser(LoginDto)
+        public ActionResult<RoleId> CheckUser(LoginDto loginDto)
+        {
+            try
+            {
+                return Ok(_repository.CheckUser(loginDto));
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(409);
+            }
+        }
     }
 }

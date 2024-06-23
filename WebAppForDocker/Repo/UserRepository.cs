@@ -3,8 +3,9 @@ using WebAppForDocker.DB;
 using WebAppForDocker.Dtos;
 using WebAppForDocker.Models;
 using System.Security.Cryptography;
+using WebAppForDocker.Abstraction;
 
-namespace WebAppForDocker.Abstraction
+namespace WebAppForDocker.Repo
 {
     public class UserRepository : IUserRepository
     {
@@ -19,13 +20,13 @@ namespace WebAppForDocker.Abstraction
                         throw new Exception("Admin is already exist!");
 
                 var entity = new User { Name = user.Name, RoleId = (RoleId)user.Role };
-                
+
                 entity.Salt = new byte[16];
                 new Random().NextBytes(entity.Salt);
                 var data = Encoding.UTF8.GetBytes(user.Password).Concat(entity.Salt).ToArray();
 
                 entity.Password = new SHA512Managed().ComputeHash(data);
-                
+
                 context.Users.Add(entity);
                 context.SaveChanges();
 

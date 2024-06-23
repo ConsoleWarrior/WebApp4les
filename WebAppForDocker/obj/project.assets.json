@@ -4583,24 +4583,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sile9t\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Oleg PK SSD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ASP.NET CORE\\WebAppForDocker\\WebAppForDocker\\WebAppForDocker.csproj",
+      "projectUniqueName": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\WebAppForDocker.csproj",
       "projectName": "WebAppForDocker",
-      "projectPath": "C:\\Projects\\ASP.NET CORE\\WebAppForDocker\\WebAppForDocker\\WebAppForDocker.csproj",
-      "packagesPath": "C:\\Users\\Sile9t\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\ASP.NET CORE\\WebAppForDocker\\WebAppForDocker\\obj\\",
+      "projectPath": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\WebAppForDocker.csproj",
+      "packagesPath": "C:\\Users\\Oleg PK SSD\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Sile9t\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Oleg PK SSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4608,8 +4603,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Users\\Sile9t\\AppData\\Roaming\\NuGet": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4687,7 +4680,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
