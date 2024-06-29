@@ -3,48 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\rsatools\\rsaextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:rsatools\\rsaextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\controllers\\testaccesscontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:controllers\\testaccesscontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\abstraction\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:abstraction\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\rsatools\\rsaextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:rsatools\\rsaextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\db\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:db\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\repo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:repo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\dtos\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:dtos\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\dtos\\roleiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:dtos\\roleiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\models\\roleid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:models\\roleid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|c:\\users\\oleg pk ssd\\documents\\github\\webapp4les\\webappfordocker\\db\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16582214-D31C-4CAA-B501-C22E26199750}|WebAppForDocker.csproj|solutionrelative:db\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,59 +78,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Dtos\\RoleIdDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RoleIdDto.cs",
+              "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Dtos\\RoleIdDto.cs",
+              "RelativeToolTip": "Dtos\\RoleIdDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:56:51.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestAccessControler.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Controllers\\TestAccessControler.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestAccessControler.cs",
+              "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Controllers\\TestAccessControler.cs*",
+              "RelativeToolTip": "Controllers\\TestAccessControler.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:54:55.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T16:36:44.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAACUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:21:47.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "Controllers\\UserController.cs*",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAACgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T18:53:12.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserContext.cs",
-              "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\DB\\UserContext.cs",
-              "RelativeDocumentMoniker": "DB\\UserContext.cs",
-              "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\DB\\UserContext.cs",
-              "RelativeToolTip": "DB\\UserContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T18:16:09.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Abstraction\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Abstraction\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Abstraction\\UserRepository.cs",
-              "RelativeToolTip": "Abstraction\\UserRepository.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwDEAAAA3AAAA",
+              "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Repo\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repo\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Repo\\UserRepository.cs",
+              "RelativeToolTip": "Repo\\UserRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAD4vxQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T18:14:14.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Abstraction\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Abstraction\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Abstraction\\IUserRepository.cs",
               "RelativeToolTip": "Abstraction\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T18:10:49.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\DB\\UserContext.cs",
+              "RelativeDocumentMoniker": "DB\\UserContext.cs",
+              "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\DB\\UserContext.cs",
+              "RelativeToolTip": "DB\\UserContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:16:09.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Dtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "Dtos\\LoginDto.cs",
@@ -131,26 +195,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Dtos\\UserDto.cs",
               "RelativeDocumentMoniker": "Dtos\\UserDto.cs",
               "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Dtos\\UserDto.cs",
               "RelativeToolTip": "Dtos\\UserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T17:44:22.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "RSAExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\RSATools\\RSAExtensions.cs",
               "RelativeDocumentMoniker": "RSATools\\RSAExtensions.cs",
               "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\RSATools\\RSAExtensions.cs",
               "RelativeToolTip": "RSATools\\RSAExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T17:38:44.305Z",
               "EditorCaption": ""
@@ -158,32 +222,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserRoleDto.cs",
-              "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Dtos\\UserRoleDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\UserRoleDto.cs",
-              "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Dtos\\UserRoleDto.cs",
-              "RelativeToolTip": "Dtos\\UserRoleDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T17:46:04.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "RoleId.cs",
               "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Models\\RoleId.cs",
               "RelativeDocumentMoniker": "Models\\RoleId.cs",
               "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Models\\RoleId.cs",
               "RelativeToolTip": "Models\\RoleId.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T17:26:42.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Models\\Role.cs",
@@ -196,13 +247,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Users\\Oleg PK SSD\\Documents\\GitHub\\WebApp4les\\WebAppForDocker\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T17:23:12.48Z",
               "EditorCaption": ""

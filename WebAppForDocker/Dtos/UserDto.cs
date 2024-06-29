@@ -6,6 +6,6 @@ namespace WebAppForDocker.Dtos
     {
         public string Name { get; set; }
         public string Password { get; set; }
-        public UserRoleDto Role { get; set; }
+        public RoleIdDto Role { get; set; }
     }
 }

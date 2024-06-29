@@ -6,6 +6,6 @@ namespace WebAppForDocker.Abstraction
     public interface IUserRepository
     {
         int AddUser(UserDto user);
-        RoleId CheckUser(LoginDto login);
+        RoleIdDto CheckUser(LoginDto login);
     }
 }

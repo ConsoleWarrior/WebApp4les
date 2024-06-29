@@ -1,6 +1,6 @@
 ﻿namespace WebAppForDocker.Dtos
 {
-    public enum UserRoleDto
+    public enum RoleIdDto
     {
         Admin = 0,
         User = 1

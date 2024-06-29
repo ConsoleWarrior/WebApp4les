@@ -7,12 +7,17 @@ namespace WebAppForDocker.DB
     {
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        
+        public UserContext()
         {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-U893DOI;Initial Catalog = UserDb;TrustServerCertificate=True;Trusted_Connection=True")
-                .UseLazyLoadingProxies().LogTo(Console.WriteLine);
         }
+        public UserContext(DbContextOptions<UserContext> options) : base(options) { }
+
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    //optionsBuilder.UseSqlServer("Server=DESKTOP-U893DOI;Initial Catalog = UserDb;TrustServerCertificate=True;Trusted_Connection=True")
+        //    //    .UseLazyLoadingProxies().LogTo(Console.WriteLine);
+        //}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
