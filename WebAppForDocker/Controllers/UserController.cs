@@ -44,20 +44,17 @@ namespace WebAppForDocker.Controllers
             try
             {
                 var roleId = _repository.CheckUser(login);
-
                 var user = new UserDto
                 {
                     Name = login.Name,
                     Password = login.Password,
                     Role = roleId
                 };
-
                 var token = GenerateToken(user);
-
                 return Ok(token);
             }
-            catch (Exception ex) { return StatusCode(500, ex.Message); }
-
+            catch (Exception ex)
+            { return StatusCode(500, ex.Message); }
         }
 
         private string GenerateToken(UserDto user)

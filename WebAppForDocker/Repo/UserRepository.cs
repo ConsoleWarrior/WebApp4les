@@ -23,13 +23,10 @@ namespace WebAppForDocker.Repo
                     throw new Exception("Admin is already exist!");
 
             var entity = new User { Name = user.Name, RoleId = (RoleId)user.Role };
-
             entity.Salt = new byte[16];
             new Random().NextBytes(entity.Salt);
             var data = Encoding.UTF8.GetBytes(user.Password).Concat(entity.Salt).ToArray();
-
             entity.Password = new SHA512Managed().ComputeHash(data);
-
             context.Users.Add(entity);
             context.SaveChanges();
 
@@ -39,15 +36,12 @@ namespace WebAppForDocker.Repo
         public RoleIdDto CheckUser(LoginDto login)
         {
             var user = context.Users.FirstOrDefault(x => x.Name == login.Name);
-
             if (user == null) throw new Exception("No user like this!");
-
             var data = Encoding.UTF8.GetBytes(login.Password).Concat(user.Salt).ToArray();
             var hash = new SHA512Managed().ComputeHash(data);
-
+            
             if (user.Password.SequenceEqual(hash))
                 return (RoleIdDto)user.RoleId;
-
             throw new Exception("Wrong password!");
         }
     }
